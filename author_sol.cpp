@@ -12,7 +12,7 @@ int main() {
 		cin >> n;
 		// the only digits that we will use are '1' and '7'
 		// because using other digits would consists of 4 
-		// or more segments ang using the digit '4' contains
+		// or more segments and using the digit '4' contains
 		// 4 segments which is equivalent in using two 1's
 		// since '1' contains 2 segments and having two 1's
 		// would result to '11' which is a greater number (11 > 4)
